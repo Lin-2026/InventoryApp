@@ -7,7 +7,8 @@ This is a simple inventory app using Python that detects barcode scanner or manu
 Really simple to run, download the .py file and run open it with a python IDE. 
 
 ## Images
-
+![Admin Panel IA](https://github.com/user-attachments/assets/a7dd475f-aaed-4d09-b3df-b0efbb78f35b)
+![Start Screen IA](https://github.com/user-attachments/assets/3d83fdf2-5795-4146-a626-326c681b24a5)
 
 ## Usage
 
