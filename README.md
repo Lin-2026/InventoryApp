@@ -22,7 +22,7 @@ Or Clone or download repository and run the app in any python supported IDE.
 1. Run the code
 2.  If your using the admin account:
      - Add, remove, or update inventory items
-    If your a user:
+3. If your a user:
      - Browse available inventory
      - add items to *personal* shopping cart
 All data and inventory updates are saved between sessions using JSON files 
