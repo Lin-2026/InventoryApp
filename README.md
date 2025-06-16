@@ -28,7 +28,7 @@ Or Clone or download repository and run the app in any python supported IDE.
 All data and inventory updates are saved between sessions using JSON files 
 
 ## Author and acknoledgement
-Edison Lin - coder
+Edison Lin - coder \
 Thanks to friends and teacher feedback during testing
 
 ## Project status
